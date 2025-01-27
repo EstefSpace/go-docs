@@ -29,6 +29,9 @@
 	<li>Variables y Constantes</li>
 	<li>Tipos de datos</li>
 	<li>Funciones</li>
+	<li>Crea tu primer paquete de Go <a href="https://github.com/estefspace/calculadora-go">Ir a otro repositorio para verlo</a></li>
+	<li>Flujos de control (Instrucciones if/else, switch)</li>
+	<li>Bucles</li>
 </ul>
 
 # Proyecto Final
